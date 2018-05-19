@@ -2,15 +2,15 @@
 
 # ENG 06 WINTER 2015
 
-PROJECT 3- STEGANOGRAPHY
+PROJECT 3 - STEGANOGRAPHY
 
 -TEAM SM -
 
-Peter Alameda-ID - 999675407
+                              Peter Alameda
 
-Thuy Dao-ID - 912073921
+                                Thuy Dao
 
- Sindhu Senthilkumar-ID -999663639
+                            Sindhu Senthilkumar
 
 **APPENDIX**
 
@@ -26,7 +26,7 @@ In Project 3 - Steganography we were required to use MATLAB software to conceal 
 
 - **Approaches**
 
-Various techniques were used to approach the problem that was given for our project.
+Various techniques were used to approach to solve the problem for our project.
 
 Methods-
 
