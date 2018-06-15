@@ -138,7 +138,7 @@ for i = 1:length(dogData)
         end 
     end 
 end 
-figure; imshow(temp); title('YEE') 
+figure; imshow(temp); title('Embedded') 
 
 
 %recovery 
@@ -154,4 +154,4 @@ for m = 1:length(recoveryImg)
     end 
 end 
 
-figure; imshow(recoveryImg); title('YEE RECOVER') 
+figure; imshow(recoveryImg); title('Recover') 
